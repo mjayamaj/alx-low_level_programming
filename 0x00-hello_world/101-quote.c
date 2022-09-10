@@ -5,7 +5,6 @@
  * main - print quote
  *
  * Description: prints Dora's quote
- *
  * Return: Always 1 (Sucess)
 */
 int main(void)
